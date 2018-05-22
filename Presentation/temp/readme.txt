@@ -1,0 +1,1 @@
+﻿Esta carpeta contiene archivos temporales para recuperar el estado del servidor tras un reinicio
